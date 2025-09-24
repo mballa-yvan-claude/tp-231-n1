@@ -11,14 +11,14 @@ Ce programme en langage **C** propose plusieurs opérations sur :
 Le programme utilise un **menu interactif** permettant de choisir
 l'opération à effectuer.
 
-------------------------------------------------------------------------
 
-## 🛠️ Fonctionnalités
 
-1.  **Somme de matrices**\
+##  Fonctionnalités
+
+1.  Somme de matrices
     Addition de deux matrices de même dimension `n × m`.
 
-2.  **Produit de matrices**\
+2.  Produit de matrices
     Calcul du produit matriciel `(n × m) × (m × p)`.
 
 3.  **Recherche séquentielle**\
@@ -47,7 +47,7 @@ l'opération à effectuer.
 
 ------------------------------------------------------------------------
 
-## 🚀 Compilation et exécution
+##  Compilation et exécution
 
 ### 1. Compilation
 
